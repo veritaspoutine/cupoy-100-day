@@ -2,3 +2,4 @@ Pipfile
 .vscode
 */data
 Pipfile.locl
+Pipfile.lock
