@@ -1,5 +1,3 @@
-Pipfile
-.vscode
-*/data
-Pipfile.locl
-Pipfile.lock
+!*HW.ipynb
+!Pipfile
+*
