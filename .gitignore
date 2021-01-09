@@ -1,3 +1,6 @@
-!*HW.ipynb
-!Pipfile
 *
+!*/
+!/day*/**HW.ipynb
+!Pipfile
+!.gitignore
+
